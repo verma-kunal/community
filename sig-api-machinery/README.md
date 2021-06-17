@@ -94,6 +94,7 @@ The following [subprojects][subproject-definition] are owned by sig-api-machiner
   - [kubernetes/kubernetes/staging/src/k8s.io/kube-aggregator](https://github.com/kubernetes/kubernetes/blob/master/staging/src/k8s.io/kube-aggregator/OWNERS)
 ### server-binaries
 - **Owners:**
+  - [kubernetes/kubernetes/staging/src/k8s.io/controller-manager](https://github.com/kubernetes/kubernetes/blob/master/staging/src/k8s.io/controller-manager/OWNERS)
   - [kubernetes/kubernetes/cmd/cloud-controller-manager](https://github.com/kubernetes/kubernetes/blob/master/cmd/cloud-controller-manager/OWNERS)
   - [kubernetes/kubernetes/cmd/kube-apiserver](https://github.com/kubernetes/kubernetes/blob/master/cmd/kube-apiserver/OWNERS)
   - [kubernetes/kubernetes/cmd/kube-controller-manager](https://github.com/kubernetes/kubernetes/blob/master/cmd/kube-controller-manager/OWNERS)
